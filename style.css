@@ -25,8 +25,8 @@ body {
 }
 
 nav {
-    background: #333;
-    color: #fff;
+    background: #fff;
+    color: #333;
     padding: 10px 20px;
     position: sticky;
     top: 0;
@@ -38,7 +38,7 @@ nav ul {
     margin: 0;
     padding: 0;
     width: 200px;
-    background-color: #f1f1f1;
+    background-color: #fff;
 }
 
 
@@ -50,7 +50,7 @@ nav ul li a {
 }
 
 nav li a:hover {
-  background-color: #555;
+  background-color: #333;
   color: white;
 }
 section {
