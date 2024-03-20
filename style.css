@@ -12,6 +12,12 @@ body {
     background-color: #fff;
 }
 
+.header{
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #fff;
+    background-color: #333;
+}
 .container {
     max-width: 800px; /* Adjust as needed */
     margin: auto;
