@@ -15,6 +15,7 @@ body {
 .header{
     font-family: 'Arial', sans-serif;
     line-height: 1.6;
+    position: sticky;
     color: #fff;
     background-color: #333;
 }
